@@ -1,0 +1,62 @@
+site_name: Oracle Database Administration Guide - Peruzal
+site_description: OCA Oracle Database Administration Certification Study Guide
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  palette:
+    primary: 'amber'
+    accent: 'deep orange'
+  logo: images/logo-lines.png
+markdown_extensions:
+  - codehilite
+  - admonition
+  - meta
+  - toc:
+      permalink: true
+
+site_url: https://github.com/Peruzal/oracle-database-guide
+repo_url: https://github.com/Peruzal/oracle-database-guide
+repo_name: Github
+
+extra:
+  disqus: 'xamarin-guides'  
+
+copyright: 'Copyright &copy; 2019 - Peruzal'
+
+# Customization
+extra_javascript:
+  - 'js/drift.js'
+  - 'js/mixpanel.js'
+
+extra:
+  social:
+    - type: 'globe'
+      link: 'https://www.peruzal.com'
+    - type: 'github'
+      link: 'https://github.com/peruzal'
+    - type: 'twitter'
+      link: 'https://twitter.com/peruzal'
+    - type: 'linkedin'
+      link: 'https://za.linkedin.com/company/peruzal'  
+        
+nav:
+  - Introduction to Oracle: index.md
+  - Oracle Database Management Tools: tools.md
+  - Configuring the Oracle Network Environment: oracle-network.md
+  - Exploring the Oracle Database Architecture: database-architecture.md
+  - Managing Database Storage Structures: database-storage.md
+  - Oracle Database Instance: database-instance.md
+  - Administering User Security: user-security.md
+  - Create and manage tablespaces: tablespaces.md
+  - Managing Undo Data: managing-undo.md
+  - Managing Data Concurrency: concurrency.md
+  - Backup and Recovery Concepts: backups-recovery-concepts.md
+  - Performing Database Backups: performing-backups.md
+  - Performing Database Recovery: database-recovery.md
+  - Moving Data: moving-data.md
+  - Implementing Oracle Database Auditing: auditing.md
+  - Managing Performance: performance.md
+  - Creating an Oracle Database Using DBCA: dbca.md
+  - Automating Tasks by Using Oracle Scheduler: scheduling-jobs.md
+  - Introduction to DBAAS: dbaas.md
+  - Upgrading Oracle Database Software: upgrading-oracle.md
