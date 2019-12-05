@@ -46,19 +46,19 @@ nav:
   - Installing Oracle Database: installing-oracle.md
   - Start and Stop the Database: start-stop-database.md
   - Configuring the Oracle Network Environment: oracle-network.md
-  - Managing Database Storage Structures: database-storage.md
+  #- Managing Database Storage Structures: database-storage.md
   - Oracle Database Instance: database-instance.md
   - Administering User Security: user-security.md
-  - Create and manage tablespaces: tablespaces.md
-  - Managing Undo Data: managing-undo.md
-  - Managing Data Concurrency: concurrency.md
-  - Backup and Recovery Concepts: backups-recovery-concepts.md
+  #- Create and manage tablespaces: tablespaces.md
+  #- Managing Undo Data: managing-undo.md
+  #- Managing Data Concurrency: concurrency.md
+  #- Backup and Recovery Concepts: backups-recovery-concepts.md
   - Performing Database Backups: performing-backups.md
-  - Performing Database Recovery: database-recovery.md
-  - Moving Data: moving-data.md
-  - Implementing Oracle Database Auditing: auditing.md
-  - Managing Performance: performance.md
-  - Creating an Oracle Database Using DBCA: dbca.md
-  - Automating Tasks by Using Oracle Scheduler: scheduling-jobs.md
-  - Introduction to DBAAS: dbaas.md
-  - Upgrading Oracle Database Software: upgrading-oracle.md
+  #- Performing Database Recovery: database-recovery.md
+  #- Moving Data: moving-data.md
+  #- Implementing Oracle Database Auditing: auditing.md
+  #- Managing Performance: performance.md
+  #- Creating an Oracle Database Using DBCA: dbca.md
+  #- Automating Tasks by Using Oracle Scheduler: scheduling-jobs.md
+  #- Introduction to DBAAS: dbaas.md
+  #- Upgrading Oracle Database Software: upgrading-oracle.md
