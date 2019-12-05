@@ -41,9 +41,11 @@ extra:
         
 nav:
   - Introduction to Oracle: index.md
-  - Oracle Database Management Tools: tools.md
-  - Configuring the Oracle Network Environment: oracle-network.md
   - Exploring the Oracle Database Architecture: database-architecture.md
+  - Oracle Database Management Tools: tools.md
+  - Installing Oracle Database: installing-oracle.md
+  - Start and Stop the Database: start-stop-database.md
+  - Configuring the Oracle Network Environment: oracle-network.md
   - Managing Database Storage Structures: database-storage.md
   - Oracle Database Instance: database-instance.md
   - Administering User Security: user-security.md
